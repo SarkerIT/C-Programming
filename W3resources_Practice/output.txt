@@ -1,0 +1,2 @@
+Perimeter is = 40 inches
+Area is = 200 square inches and Perimeter is 40 inches
